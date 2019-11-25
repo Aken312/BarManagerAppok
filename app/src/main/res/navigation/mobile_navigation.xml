@@ -10,13 +10,13 @@
         android:label="fragment_inicio"
         tools:layout="@layout/fragment_inicio" />
     <fragment
-        android:id="@+id/mapaCentral"
-        android:name="com.example.barmanagerapp.MapaCentral"
-        android:label="fragment_mapa_central"
-        tools:layout="@layout/fragment_mapa_central" />
+        android:id="@+id/iniciar_Sesion_Fragment"
+        android:name="com.example.barmanagerapp.Iniciar_Sesion_Fragment"
+        android:label="fragment_iniciar__sesion_"
+        tools:layout="@layout/fragment_iniciar__sesion_" />
     <fragment
-        android:id="@+id/mesa1"
-        android:name="com.example.barmanagerapp.Mesa1"
-        android:label="fragment_mesa1"
-        tools:layout="@layout/fragment_mesa1" />
+        android:id="@+id/registerFragment"
+        android:name="com.example.barmanagerapp.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" />
 </navigation>
